@@ -17,9 +17,9 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency('synergy_russian', '0.2.8')
-  s.add_dependency('json', '~> 1.5.1')
+  s.add_dependency('json', '~> 1.6.1')
   s.add_dependency('nokogiri', '~> 1.4.4')
-  s.add_dependency('spree', '~> 0.60.0')
+  s.add_dependency('spree', '~> 0.70.0')
   s.add_dependency('spree_static_content', '~> 0.60.1')
   s.add_dependency('spree_editor', '~> 0.50.1')
   s.add_dependency('spree_robokassa', '~> 0.50.2')
